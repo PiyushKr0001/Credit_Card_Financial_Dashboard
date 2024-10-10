@@ -122,3 +122,18 @@ Previous_week_Reveneue = CALCULATE(
  FILTER(
  ALL('public cc_detail'),
  'public cc_detail'[week_num2] = MAX('public cc_detail'[week_num2])-1))
+
+ -----------------------Credit  Card  Transaction  Report--------------------------------------
+ ![image](https://github.com/user-attachments/assets/5e1f7064-0cf4-4055-818d-854769080615)
+![image](https://github.com/user-attachments/assets/de6a3d9b-fd83-4bd1-9636-4f35bcedb589)
+![image](https://github.com/user-attachments/assets/2c67cde9-9078-4bac-b4c3-b3c922b1e3bc)
+
+
+
+----------------------------Credit Card Customer Report----------------------------------------
+![image](https://github.com/user-attachments/assets/72472309-0483-492a-bbb8-7b4d1f0531d8)
+![image](https://github.com/user-attachments/assets/585f4725-a1fe-40a8-8317-95e500d8e5f0)
+![image](https://github.com/user-attachments/assets/468e2702-166b-42c6-b951-d20cbd97c095)
+
+
+
